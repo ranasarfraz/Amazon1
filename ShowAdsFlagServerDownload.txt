@@ -83,7 +83,7 @@
       "AdNetworksPriority": "AUC"
     },
     {
-      "BundleId": "com.es.formula.car.crash.derby.demolition.fearless.crashderby.stunts.games",
+      "BundleId": "com.gladiators.inc.police.formula.car.crash.derby.demolisher.fearless.stunts.games2023",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
@@ -91,7 +91,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
