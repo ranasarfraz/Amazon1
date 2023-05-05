@@ -9,8 +9,16 @@
     {
       "BundleId": "com.extreme.simulator.fury.monster.jeep.parking.truck.driving.stunts2019",
       "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.4",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
     },
     {
       "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
@@ -105,13 +113,13 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.0",
+      "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
     },
     {
-      "BundleId": "aaaaaaaaa",
+      "BundleId": "com.gladiators.inc.advance.car.parking.cargames.driving.school",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
@@ -119,7 +127,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.3",
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
