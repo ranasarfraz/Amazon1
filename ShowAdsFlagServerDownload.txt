@@ -141,7 +141,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
@@ -197,7 +197,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
@@ -212,6 +212,20 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.extreme.quad.bike.derby.demolition.moto.bike.rider.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
