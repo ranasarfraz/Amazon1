@@ -327,6 +327,34 @@
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.power.washing.satisfying.games.pressure.wash.car.cleaning.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.modern.auto.rickshaw.driving.auto.taxi.passenger.driving.simulator",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
     }                              
   ]
 }
