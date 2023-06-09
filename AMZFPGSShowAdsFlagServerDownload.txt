@@ -27,6 +27,20 @@
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.xpgs.ultimatetrucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
     }                           
   ]
 }
