@@ -237,6 +237,34 @@
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.xpgs.virtualfamily.petcatsimulator.kitten.home.adventure.catgames",
+      "ShowAdsFlag": false,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.xpgs.offroad.coachbus.simulator.drivingbusgames",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
     }                           
   ]
 }

@@ -425,6 +425,34 @@
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.pet.cat.simulator.virtual.cute.cat.house.adventure.games",
+      "ShowAdsFlag": false,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.6",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.cargoship.animal.transport.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.3",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
     }                              
   ]
 }
