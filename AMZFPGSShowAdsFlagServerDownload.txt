@@ -1,34 +1,6 @@
 {
   "AdIds": [ 
     {
-      "BundleId": "com.extreme.simulator.fury.monster.jeep.parking.truck.driving.stunts2019",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
-      "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
-      "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
-      "IsAdmobLimited": false,
-      "BundleVersionCode": "1.4",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUC"
-    },
-    {
       "BundleId": "com.xpgs.ultimatetrucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
@@ -240,11 +212,11 @@
     },
     {
       "BundleId": "com.xpgs.virtualfamily.petcatsimulator.kitten.home.adventure.catgames",
-      "ShowAdsFlag": false,
+      "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": false,
+      "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "BundleVersionCode": "1.2",
@@ -388,6 +360,20 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.xpgs.uphill.heavy.cargrotransporter.offroadtrucksimulator",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
