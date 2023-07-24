@@ -453,6 +453,48 @@
       "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.us.police.rescue.bus.simulator.cop.duty.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.forest.deer.hunter.sniper.deer.hunting.wild.animal.shootinggames",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.world.war.tanks.battle.army.base.camp.tank.shooting.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "22",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUC"
     }                              
   ]
 }
