@@ -9,7 +9,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.4",
+      "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "14",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
@@ -247,9 +247,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.2",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.3",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -275,9 +275,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -303,9 +303,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.2",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.3",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -415,9 +415,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -429,9 +429,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -471,9 +471,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -513,9 +513,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.7",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -541,9 +541,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.6",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -555,9 +555,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     }                           
   ]
