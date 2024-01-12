@@ -520,16 +520,16 @@
     },
     {
       "BundleId": "com.xpgs.city.drift.car.racing.simulator.extreme.car.maxdrifting.mania.car.drifting.legend.challenge.games",
-      "ShowAdsFlag": false,
+      "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": false,
+      "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.9",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -556,6 +556,20 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.xpgs.crazy.highway.car.shooting.street.car.superfastest.speed.racing.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "14",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
