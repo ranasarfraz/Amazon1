@@ -387,9 +387,9 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
-      "BundleVersionCode": "1.1",
-      "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "BundleVersionCode": "1.7",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
     },
     {
@@ -570,6 +570,20 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "BundleVersionCode": "1.3",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.xpgs.mega.car.crash.simulator.extreme.death.ramp.derby.demolition.car.crash.stunts.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "14",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
