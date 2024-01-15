@@ -601,6 +601,20 @@
       "InterstitialAdDelayTime": "14",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.xpgs.grandjail.prisonbreak.escapemission.prisonescapegames.criminalpuzzlegames",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AUC"
     }                           
   ]
 }
