@@ -579,6 +579,62 @@
       "InterstitialAdDelayTime": "14",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.gangster.stickman.jailbreak.prison.escape.survival.adventure",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.grand.bus.crash.arena.crashing.smashing.destruction.busgames",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.6",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.real.speed.jet.ski.boat.racing.fearless.superhero.powerboat.driving.adventure",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.8",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AUC"
+    },
+    {
+      "BundleId": "com.gladiators.inc.city.rescue.flying.spider.rope.hero.superhero.fighting.gangster.crime.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "IsAdmobLimited": false,
+      "BundleVersionCode": "1.7",
+      "InterstitialAdDelayTime": "14",
+      "RewardedAdDelayTime": "0",
+      "AdNetworksPriority": "AUC"
     }                              
   ]
 }
