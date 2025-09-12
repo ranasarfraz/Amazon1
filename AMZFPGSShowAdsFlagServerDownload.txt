@@ -12,7 +12,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -28,7 +28,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -44,7 +44,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -60,7 +60,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -76,7 +76,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -92,7 +92,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -108,7 +108,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -124,7 +124,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -140,7 +140,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -156,7 +156,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -172,7 +172,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -188,7 +188,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -204,7 +204,7 @@
       "RewardedAdDelayTime": "0",
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -220,7 +220,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -236,7 +236,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -252,7 +252,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -268,7 +268,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -284,7 +284,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -300,7 +300,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -316,7 +316,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -332,7 +332,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -348,7 +348,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -364,7 +364,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -380,7 +380,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -396,7 +396,7 @@
       "RewardedAdDelayTime": "30", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -412,7 +412,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -428,7 +428,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -444,7 +444,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -460,7 +460,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -476,7 +476,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -492,7 +492,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -508,7 +508,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -524,7 +524,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -540,7 +540,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -556,7 +556,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -572,7 +572,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -588,7 +588,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -604,7 +604,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -620,7 +620,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -636,7 +636,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -652,7 +652,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -668,7 +668,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -684,7 +684,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -700,7 +700,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     },
@@ -716,7 +716,7 @@
       "RewardedAdDelayTime": "0", 
       "ShowInGameAds": true,
       "InGameAdsDelayTime": "80",
-      "DoShowMediatedBanner": false,
+      "DoShowMediatedBanner": true,
       "DoShowMediatedAppOpen": true,
       "DoShowAppOpenAfterAd": false 
     }                           
